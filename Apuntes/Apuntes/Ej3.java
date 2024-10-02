@@ -6,11 +6,8 @@ public class Ej3 {
 		double alto = 4.9;
 		double area = ancho * alto;
 		
-		System.out.print("El ancho es: ");
-		System.out.println(ancho);
-		System.out.print("Y el alto es: ");
-		System.out.println(alto);
-		System.out.print("El área de este rectángulo es " +area+ "cm2");
+		System.out.print("El ancho es: "+ ancho + "cm y el alto es: " + alto + "cm .El área de este rectángulo es" +area+ "cm2");
+		
 		
 }
 
