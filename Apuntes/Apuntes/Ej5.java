@@ -1,6 +1,5 @@
 package Apuntes;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Ej5 {
