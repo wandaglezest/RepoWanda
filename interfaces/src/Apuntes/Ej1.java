@@ -1,6 +1,6 @@
-package Apuntes1;
+package Apuntes;
 
-public class Ejercicio1 {
+public class Ej1 {
 	public static void main(String[] args) {
 		
 		int numero = 7;
