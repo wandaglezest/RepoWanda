@@ -1,6 +1,6 @@
 package Apuntes;
 
-public class Ej6 {
+public class IntercambiarVariables {
 	public static void main (String [] args) {
 		/*Declara dos variables enteras con diferentes valores. Intercambia sus valores sin usar una tercera variable temporal e imprime los resultados 
 		antes y después del intercambio.*/

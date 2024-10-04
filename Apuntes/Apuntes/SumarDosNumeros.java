@@ -1,6 +1,6 @@
 package Apuntes;
 
-public class Ej2 {
+public class SumarDosNumeros {
 	public static void main (String []args) {
 		int numero1 = 7;
 		int numero2 = 5;

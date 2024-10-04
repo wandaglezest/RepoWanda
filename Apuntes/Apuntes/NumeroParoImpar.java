@@ -2,7 +2,7 @@ package Apuntes;
 
 import java.util.Scanner;
 
-public class SentenciasdecontrolEj1 {
+public class NumeroParoImpar {
 	public static void main (String[]args) {
 		
 		
@@ -16,10 +16,10 @@ public class SentenciasdecontrolEj1 {
         // Cerrar el escáner
         //scanner.close();
 		
-		int numdado;
+		
 		System.out.println("Dame un número");
 		Scanner leer = new Scanner(System.in);
-		numdado = leer.nextInt();
+		int numdado = leer.nextInt();
 		
 		
 		if (numdado % 2 == 0) {

@@ -2,7 +2,7 @@ package Apuntes;
 
 import java.util.Scanner;
 
-public class Ej4 {
+public class PasarCelsisusaFahrenheit {
 	public static void main (String []args) {
 		/*Declara una variable para una temperatura en grados Celsius. 
 		 * Convierte esta temperatura a Fahrenheit utilizando la fórmula 

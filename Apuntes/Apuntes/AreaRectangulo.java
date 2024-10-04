@@ -1,5 +1,5 @@
 package Apuntes;
-public class Ej3 {
+public class AreaRectangulo {
 	public static void main (String []args) {
 		
 		double ancho = 7.5;
@@ -7,6 +7,7 @@ public class Ej3 {
 		double area = ancho * alto;
 		
 		System.out.print("El ancho es: "+ ancho + "cm y el alto es: " + alto + "cm .El área de este rectángulo es" +area+ "cm2");
+		
 		
 		
 }

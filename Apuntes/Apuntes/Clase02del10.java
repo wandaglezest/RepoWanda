@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 public class Clase02del10 {
 	 
 		public static void main(String[] args) throws IOException {
+
 			/*
 			 *
 			 * Comentarios en Java

@@ -2,7 +2,7 @@ package Apuntes;
 
 import java.util.Scanner;
 
-public class Ej5 {
+public class PerimetroDeCirculo {
 	public static void main (String [] args) {
 	
 	/*Declara una variable para el radio de un círculo. Utiliza la fórmula Perímetro = 2 * π * radio para calcular

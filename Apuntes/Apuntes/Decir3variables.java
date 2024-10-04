@@ -1,6 +1,6 @@
 package Apuntes;
 
-public class Ej1 {
+public class Decir3variables {
 	public static void main(String[] args) {
 		
 		int numero = 7;
