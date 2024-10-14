@@ -41,7 +41,10 @@ public class SwitchOperacionesMatematicas {
 		case 4:
 			System.out.println("Dame dos números para dividir:");
 			pideNumeros();
-			System.out.print("La división de los números " + num1 + " y " + num2 + " es:  " + (num1 / num2) + ".");
+			double numero1 = num1;
+			double numero2 = num2;
+			double division = numero1 / numero2;
+			System.out.print("La división de los números " + num1 + " y " + num2 + " es:  " + division + ".");
 			break;
 		case 5:
 			System.out.println("El programa se cerró.");
@@ -52,7 +55,7 @@ public class SwitchOperacionesMatematicas {
 		}
 	}
 
-	// Método para recoger variables por consola
+	// Recoger número 1 y 2
 	public static void pideNumeros() {
 		System.out.println("Introduce número 1:");
 		num1 = Integer.parseInt(leer.nextLine());
@@ -60,7 +63,8 @@ public class SwitchOperacionesMatematicas {
 		System.out.println("Introduce número 2:");
 		num2 = Integer.parseInt(leer.nextLine());
 
-		// Mostrar un salto de línea en Java
+		// Salto de línea
 		System.out.println("\n");
 	}
+
 }

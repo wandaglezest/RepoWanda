@@ -3,10 +3,11 @@ package Apuntes;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Clase02del10 {
-	 
-		public static void main(String[] args) throws IOException {
+
+	public static void main(String[] args) throws IOException {
 
 			/*
 			 *
@@ -101,6 +102,24 @@ public class Clase02del10 {
 				System.out.println("Unexpected value: "+cadena);
 			}
 			
+			//Parseos
+			Integer.par
+			
+			//LEER POR PANTALLA
+			import java.util.Scanner;
+			public class LeerPorPantalla {
+			    public static void main(String[] args) {
+			        // Crear un objeto Scanner para leer datos de la entrada estándar (teclado)
+			        Scanner scanner = new Scanner(System.in);
+			        // Pedir al usuario que ingrese un texto
+			        System.out.print("Introduce un texto: ");
+			        String texto = scanner.nextLine();  // Lee una línea completa de texto
+			        // Mostrar el texto ingresado
+			        System.out.println("Texto ingresado: " + texto);
+			        // Cerrar el escáner
+			        scanner.close();
+			    }
+			}
 			
 		}
-	}
+}
