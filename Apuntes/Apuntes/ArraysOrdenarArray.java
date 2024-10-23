@@ -15,7 +15,6 @@ public class ArraysOrdenarArray {
 		int[] arr = new int[10];
 		Random azar = new Random();
 
-		// Crear array al azar
 		for (int i = 0; i < arr.length; i++) {
 
 			arr[i] = azar.nextInt(100);
