@@ -103,7 +103,6 @@ public class Clase02del10 {
 			}
 			
 			//Parseos
-			Integer.par
 			
 			//LEER POR PANTALLA
 			import java.util.Scanner;

@@ -26,7 +26,6 @@ public class FrecuenciaValores {
 			arr.add(b);
 		}
 		System.out.println(arr);
-
 		HashMap<String, Integer> frecuency = new HashMap<>();
 
 		for (String palabra : arr) {
@@ -36,7 +35,7 @@ public class FrecuenciaValores {
 		// Imprimir las frecuencias
 		System.out.println("Frecuencia de palabras:");
 		for (String palabra : frecuency.keySet()) {
-			System.out.println(palabra + ": " + frecuency.get(palabra));
+			System.out.println("'" + palabra + "'" + "se repite " + frecuency.get(palabra) + " veces.");
 		}
 
 		read.close();
