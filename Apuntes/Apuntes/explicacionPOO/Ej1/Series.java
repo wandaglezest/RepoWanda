@@ -1,4 +1,4 @@
-package Apuntes.explicacionPOO;
+package Apuntes.explicacionPOO.Ej1;
 
 public class Series {
 

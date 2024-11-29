@@ -1,12 +1,12 @@
-package Apuntes.explicacionPOO;
+package Apuntes.explicacionPOO.Ej1;
 
 public class Capitulos {
 	private int numCap;
 	private int duracionCap;
 
 	public Capitulos(int numer, int duration) {
-		this.numCap = numer;
-		this.duracionCap = duration;
+		numCap = numer;
+		duracionCap = duration;
 	}
 
 	public int getNumCap() {
