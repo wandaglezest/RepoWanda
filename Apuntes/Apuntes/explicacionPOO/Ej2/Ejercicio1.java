@@ -1,4 +1,4 @@
-package Apuntes.explicacionPOO.Ej1;
+package Apuntes.explicacionPOO.Ej2;
 
 import java.util.Scanner;
 
